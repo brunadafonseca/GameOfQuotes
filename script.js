@@ -1,4 +1,4 @@
-mySite = "http://bit.ly/1SaiSpL";
+mySite = "http://bit.ly/20eyzle";
 
 $(function () {
     $('q, p').hide();
